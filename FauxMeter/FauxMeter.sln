@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "FauxMeterDB", "FauxMeterDB\FauxMeterDB.sqlproj", "{24055072-B3E0-4761-91FC-956AF1577818}"
+EndProject
+Project("{F5034706-568F-408A-B7B3-4D38C6DB8A32}") = "TestScriptsPS", "TestScriptsPS\TestScriptsPS.pssproj", "{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FauxMeterIS", "FauxMeterIS\FauxMeterIS.dtproj", "{84C6F7EB-8AA3-48A0-AC53-3B5509B51A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24055072-B3E0-4761-91FC-956AF1577818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Development|Any CPU.Deploy.0 = Debug|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24055072-B3E0-4761-91FC-956AF1577818}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84C6F7EB-8AA3-48A0-AC53-3B5509B51A64}.Debug|Any CPU.ActiveCfg = Development
+		{84C6F7EB-8AA3-48A0-AC53-3B5509B51A64}.Debug|Any CPU.Build.0 = Development
+		{84C6F7EB-8AA3-48A0-AC53-3B5509B51A64}.Development|Any CPU.ActiveCfg = Development
+		{84C6F7EB-8AA3-48A0-AC53-3B5509B51A64}.Development|Any CPU.Build.0 = Development
+		{84C6F7EB-8AA3-48A0-AC53-3B5509B51A64}.Release|Any CPU.ActiveCfg = Development
+		{84C6F7EB-8AA3-48A0-AC53-3B5509B51A64}.Release|Any CPU.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

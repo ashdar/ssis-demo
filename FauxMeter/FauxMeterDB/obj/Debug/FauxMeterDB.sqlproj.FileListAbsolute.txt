@@ -1,0 +1,5 @@
+c:\users\dstrait.corp\documents\visual studio 2012\Projects\FauxMeter\FauxMeterDB\bin\Debug\FauxMeterDB.dacpac
+c:\users\dstrait.corp\documents\visual studio 2012\Projects\FauxMeter\FauxMeterDB\bin\Debug\FauxMeterDB.dll
+c:\users\dstrait.corp\documents\visual studio 2012\Projects\FauxMeter\FauxMeterDB\bin\Debug\FauxMeterDB.pdb
+c:\users\dstrait.corp\documents\visual studio 2012\Projects\FauxMeter\FauxMeterDB\obj\Debug\FauxMeterDB.dll
+c:\users\dstrait.corp\documents\visual studio 2012\Projects\FauxMeter\FauxMeterDB\obj\Debug\FauxMeterDB.pdb
